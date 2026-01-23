@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CompBio_Webpage_2026",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nGit init\ngit remote add origin https://github.com/arowosegbe/REPO.git git branch -M main git push -u origin main\n.pdf .docx\ngit status git add -A git commit -m “initial project setup” git push\n-git remote add origin tells your local repository where the Github repository is"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
