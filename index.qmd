@@ -6,19 +6,7 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-Git init
 
-git remote add origin https://github.com/arowosegbe/REPO.git
-git branch -M main
-git push -u origin main
+[Homework 1](http://localhost:3915/Homework%201.html)
 
-*.pdf
-*.docx
-
-git status
-git add -A
-git commit -m "initial project setup"
-git push
-
-
--git remote add origin tells your local repository where the Github repository is
+[Homework 4] ()
