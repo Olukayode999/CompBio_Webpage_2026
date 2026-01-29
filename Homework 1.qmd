@@ -1,0 +1,13 @@
+---
+title: "Homework 1"
+format: html
+---
+# homework 1
+
+```{r}
+x <- 1.1
+a <- 2.2
+b <- 3.3
+
+
+```
