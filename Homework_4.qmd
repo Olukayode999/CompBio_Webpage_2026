@@ -29,9 +29,9 @@ print(z)
 
 ```{r}
 
-z <-  3{x^3} + 2{x^2} + 1
+#z <-  3(x^3) + 2(x^2) + 1
 
-print(z)
+#print(z)
 
 ```
 
@@ -52,7 +52,7 @@ my_vec <- seq(from =0, to =5)
 z <- rep(my_vec, times = (my_vec))
 print(z)
 
-````
+```
 
 ```{r}
 
@@ -81,7 +81,7 @@ queue[c(6,2,7,4)]
 
 ```
 
-```{r}
+
 
 my_vec <- seq(from = 1, to = 100)
 
@@ -90,11 +90,12 @@ a <- (my_vec %% 2 != 0)
 b<- (my_vec %% 3 != 0)
 
  c<- (my_vec %% 7 != 0)
-my_vect<- [a & b & c]
+
+my_vect<- (a & b & c)
 
 
-z <- my_vec[my_vect]
+z <- my_vec(my_vect)
 
 print(z)
 z
-```
+
