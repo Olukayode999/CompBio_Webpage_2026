@@ -1,0 +1,100 @@
+---
+title: "Homework_4"
+format: html
+---
+
+Question 1a.
+```{r}
+
+
+x <- 1.1
+a <- 2.2
+b <- 3.3
+
+
+z <- x^(a^b)
+print(z)
+
+
+
+```
+
+Question 1b
+```{r}
+
+z <- (x^a)^b
+print(z)
+
+```
+
+```{r}
+
+z <-  3{x^3} + 2{x^2} + 1
+
+print(z)
+
+```
+
+```{r}
+my_vec <- seq(1, 8)
+my_vect <- seq(7, 1)
+
+z <- c(my_vec, my_vect)
+print(z)
+
+```
+
+```{r}
+#{r}x =seq(0,8)
+
+my_vec <- seq(from =0, to =5)
+
+z <- rep(my_vec, times = (my_vec))
+print(z)
+
+````
+
+```{r}
+
+my_vec <- seq(from =5, to = 1)
+
+my_vect <- rep <- seq(from =1, to = 5)
+
+z <- rep(x=my_vec, times= my_vect)
+
+print(z)
+
+
+```
+
+```{r}
+queue <- c("sheep","fox","owl","ant","serpent","donkey","amphid")
+queue[c(1,2,3,4,6,5)]
+queue[c(2,3,4,6,5)]
+queue[c(6,2,3,4,5)]
+queue[c(6,2,3,4)]
+queue[c(6,2,7,4)]
+queue[c(6,2,7,4)]
+
+
+
+
+```
+
+```{r}
+
+my_vec <- seq(from = 1, to = 100)
+
+a <- (my_vec %% 2 != 0)
+
+b<- (my_vec %% 3 != 0)
+
+ c<- (my_vec %% 7 != 0)
+my_vect<- [a & b & c]
+
+
+z <- my_vec[my_vect]
+
+print(z)
+z
+```
