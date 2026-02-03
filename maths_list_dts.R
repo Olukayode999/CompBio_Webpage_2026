@@ -3,8 +3,13 @@ x <- 1.1 # Assign x
 a <- 2.2  # Assign a
 b <- 3.3  # Assign b
 
+
+
 z <- x ^ a ^ b
 print(z)
+
+
+
 
 z <- (x ^ a) ^ b
 print(z)
