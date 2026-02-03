@@ -96,7 +96,7 @@ queue[c(6,2,7,4)]
 
 ```
 Question 5
-```{r}
+```{r, echo = TRUE}
 
 
 my_vec <- seq(from = 1, to = 100)
